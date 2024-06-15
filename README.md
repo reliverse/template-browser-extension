@@ -61,7 +61,6 @@ _You can find other RQs (Reliverse Questions) in the [relivator-nextjs-template]
     "lint": "pnpm eslint --cache --fix . && pnpm biome lint --write .",
     "lint:al": "pnpm addons-linter ./extension/",
     "lint:we": "pnpm web-ext lint",
-    "preinstall": "npx only-allow pnpm",
     "reli:help": "pnpm tsx reliverse.ts --help",
     "reli:pm": "tsx reliverse.ts --pm",
     "typecheck": "tsc --noEmit",
