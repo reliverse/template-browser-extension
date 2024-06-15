@@ -47,7 +47,7 @@
   "module": "src/index.ts",
   "name": "template-browser-extension",
   "scripts": {
-    "appts": "run-s knip format lint typestat typecheck build",
+    "appts": "run-s knip lint format typestat typecheck build",
     "build": "bun build ./src/index.ts --outdir ./extension/",
     "debug:eslint": "bun cross-env TIMING=12 eslint --fix .",
     "dev": "bun run src/index.ts",

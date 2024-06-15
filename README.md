@@ -22,7 +22,7 @@ Love using this project? If you're feeling generous, I'd appreciate a cup of cof
 
 ### [Discord Server Boost](https://discord.gg/C4Z46fHKQ8)
 
-- </demir>
+- demir
 
 ## Roadmap
 
@@ -42,7 +42,7 @@ This project was created using `bun init` in bun v1.1.12. [Bun](https://bun.sh) 
 
 ## FAQ
 
-_You can find other RQs (Reliverse Questions) in the `[relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template)` repo._
+_You can find other RQs (Reliverse Questions) in the [relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) repo._
 
 - **RQ21:** How do I switch the package manager from `bun` to pnpm, yarn, or npm?
   **RA21:** Here's a variant of `scripts` for `pnpm`. Scripts presets for other package managers coming soon. Just replace it in `package.json` (and make sure it don't miss anything).
